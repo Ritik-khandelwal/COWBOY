@@ -4,6 +4,7 @@ import Third from './Components/Third'
 import Second from './Components/Second'
 import Hero from './Components/Hero'
 import Navbar from './Components/Navbar'
+import Footer from './Components/Footer'
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
       <Second />
       <Third />
       <VideoPlayer />
+      <Footer />
     </>
   )
 }
