@@ -3,7 +3,7 @@ import React from 'react'
 const sizeMap = {
   large: "text-4xl sm:text-5xl md:text-6xl md:w-[25rem]",
   medium: "text-3xl sm:text-4xl md:text-5xl",
-  small: "text-2xl sm:text-3xl md:text-4xl"
+  small: "text-xl sm:text-2xl md:text-3xl"
 }
 
 const alignMap = {

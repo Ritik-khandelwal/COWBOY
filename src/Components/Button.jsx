@@ -7,7 +7,7 @@ const variant = {
 }
 
 const sizeMap = {
-    normal: "px-[2rem] py-[1rem]",
+    normal: "px-[1.25rem] py-[0.75rem] text-xs",
     main: "px-[2rem] py-[1rem] md:px-[1.5rem] md:py-[1rem]",
     navbar: "sm:px-[2rem] sm:py-[0.5rem] hover:bg-black hover:text-white transition duration-150"
 }
