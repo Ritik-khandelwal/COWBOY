@@ -15,7 +15,7 @@ const VideoPlayer = () => {
             <img src={image} alt="Preview" className='w-full h-full object-cover object-center' />
             
             <div className="absolute inset-0 bg-black/50"></div>
-            <div className="absolute inset-0 z-20 flex items-center justify-center">
+            <div className="absolute inset-0 z-1 flex items-center justify-center">
                 <PlayButton />
             </div>
         </div>

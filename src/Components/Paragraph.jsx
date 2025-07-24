@@ -2,7 +2,7 @@ import React from 'react'
 
 const sizeMap = {
   large: "text-sm sm:text-base md:text-lg md:w-[35rem]",
-  medium: "text-lg sm:text-xl md:text-2xl",
+  medium: "text-sm sm:text-sm md:text-sm md:w-[25rem]",
   small: "text-sm sm:text-sm md:text-sm"
 }
 

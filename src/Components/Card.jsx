@@ -5,7 +5,7 @@ import Button from './Button';
 
 const Card = ({url, heading, paragraph, buttonText}) => {
 
-  let normalName = "w-full h-[35rem] flex p-5 items-end bg-cover bg-center bg-no-repeat";
+  let normalName = "w-full h-[35rem] flex p-5 items-end bg-cover bg-center bg-no-repeat ";
   let responsiveName = "sm:p-8 md:px-10 sm:h-[40rem] md:h-[45rem] md:p-10";
 
   let cardName = `${normalName} ${responsiveName}`
