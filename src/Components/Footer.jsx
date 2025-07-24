@@ -2,10 +2,7 @@ import React from 'react'
 
 const Footer = () => {
 
-  let normalName = "py-3 w-full text-center text-black text-[1.25em] font-extralight leading-normal";
-  let responsiveName = "md:text-[1.5rem]";
-
-  let footerName = `${normalName} ${responsiveName}`
+  let footerName = "py-3 w-full text-center text-black text-sm font-extralight leading-normal";
 
   return (
     <>
